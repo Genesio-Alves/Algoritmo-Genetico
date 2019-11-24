@@ -1,0 +1,9 @@
+C:\Users\msand\source\repos\Algoritmo_genettico\bin\Debug\Algoritmo_genettico.exe.config
+C:\Users\msand\source\repos\Algoritmo_genettico\bin\Debug\Algoritmo_genettico.exe
+C:\Users\msand\source\repos\Algoritmo_genettico\bin\Debug\Algoritmo_genettico.pdb
+C:\Users\msand\source\repos\Algoritmo_genettico\obj\Debug\Algoritmo_genettico.csprojAssemblyReference.cache
+C:\Users\msand\source\repos\Algoritmo_genettico\obj\Debug\Algoritmo_genettico.Form1.resources
+C:\Users\msand\source\repos\Algoritmo_genettico\obj\Debug\Algoritmo_genettico.Properties.Resources.resources
+C:\Users\msand\source\repos\Algoritmo_genettico\obj\Debug\Algoritmo_genettico.csproj.GenerateResource.cache
+C:\Users\msand\source\repos\Algoritmo_genettico\obj\Debug\Algoritmo_genettico.exe
+C:\Users\msand\source\repos\Algoritmo_genettico\obj\Debug\Algoritmo_genettico.pdb
